@@ -1,0 +1,531 @@
+WHITE is playing with the naive heuristic
+BLACK is playing with the improved heuristic
+
+
+Starting a new game!
+
+Player 1 begins!
+Turn number : 0
+
+
+Depth = 4, Time taken: 1.3034 seconds 
+ Nodes visited: 466
+Player Black makes move: ('D', 2)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,1, , , , , 
+###############
+
+
+Turn number : 1
+Depth = 4, Time taken: 0.9065 seconds 
+ Nodes visited: 363
+Player White makes move: ('D', 7)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,1, , , , ,0
+###############
+
+
+
+
+Depth = 4, Time taken: 2.2313 seconds 
+ Nodes visited: 756
+Player Black makes move: ('D', 1)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ ,1,1, , , , ,0
+###############
+
+
+Turn number : 2
+Depth = 4, Time taken: 1.8005 seconds 
+ Nodes visited: 660
+Player White makes move: ('D', 4)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ ,1,1, ,0, , ,0
+###############
+
+
+
+
+Depth = 4, Time taken: 3.5106 seconds 
+ Nodes visited: 1153
+Player Black makes move: ('D', 3)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ ,1,1,1,0, , ,0
+###############
+
+
+Turn number : 3
+Depth = 4, Time taken: 1.4801 seconds 
+ Nodes visited: 552
+Player White makes move: ('D', 0)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+0,1,1,1,0, , ,0
+###############
+
+
+
+
+Depth = 4, Time taken: 4.4740 seconds 
+ Nodes visited: 1482
+Player Black makes move: ('D', 2)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,1, , , , , 
+0,1,1,1,0, , ,0
+###############
+
+
+Turn number : 4
+Depth = 4, Time taken: 2.1862 seconds 
+ Nodes visited: 743
+Player White makes move: ('D', 0)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+0, ,1, , , , , 
+0,1,1,1,0, , ,0
+###############
+
+
+
+
+Depth = 4, Time taken: 5.2816 seconds 
+ Nodes visited: 1659
+Player Black makes move: ('D', 2)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,1, , , , , 
+0, ,1, , , , , 
+0,1,1,1,0, , ,0
+###############
+
+
+Turn number : 5
+Depth = 4, Time taken: 2.1885 seconds 
+ Nodes visited: 722
+Player White makes move: ('D', 2)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,0, , , , , 
+ , ,1, , , , , 
+0, ,1, , , , , 
+0,1,1,1,0, , ,0
+###############
+
+
+
+
+Depth = 4, Time taken: 4.0154 seconds 
+ Nodes visited: 1277
+Player Black makes move: ('L', 3, 7)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,0, , , , , 
+ , ,1, , , , , 
+0, ,1, , , , , 
+1,1,1, ,0, , ,0
+###############
+
+
+Turn number : 6
+Depth = 4, Time taken: 0.9734 seconds 
+ Nodes visited: 338
+Player White makes move: ('D', 3)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,0, , , , , 
+ , ,1, , , , , 
+0, ,1, , , , , 
+1,1,1,0,0, , ,0
+###############
+
+
+
+
+Depth = 4, Time taken: 1.6341 seconds 
+ Nodes visited: 511
+Player Black makes move: ('D', 1)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,0, , , , , 
+ , ,1, , , , , 
+0,1,1, , , , , 
+1,1,1,0,0, , ,0
+###############
+
+
+Turn number : 7
+Depth = 4, Time taken: 3.5486 seconds 
+ Nodes visited: 1105
+Player White makes move: ('D', 6)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,0, , , , , 
+ , ,1, , , , , 
+0,1,1, , , , , 
+1,1,1,0,0, ,0,0
+###############
+
+
+
+
+Depth = 4, Time taken: 5.0202 seconds 
+ Nodes visited: 1432
+Player Black makes move: ('D', 5)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,0, , , , , 
+ , ,1, , , , , 
+0,1,1, , , , , 
+1,1,1,0,0,1,0,0
+###############
+
+
+Turn number : 8
+Depth = 4, Time taken: 2.0236 seconds 
+ Nodes visited: 606
+Player White makes move: ('D', 3)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,0, , , , , 
+ , ,1, , , , , 
+0,1,1,0, , , , 
+1,1,1,0,0,1,0,0
+###############
+
+
+
+
+Depth = 4, Time taken: 5.7047 seconds 
+ Nodes visited: 1494
+Player Black makes move: ('D', 3)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,0, , , , , 
+ , ,1,1, , , , 
+0,1,1,0, , , , 
+1,1,1,0,0,1,0,0
+###############
+
+
+Turn number : 9
+Depth = 4, Time taken: 2.6450 seconds 
+ Nodes visited: 794
+Player White makes move: ('D', 3)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,0,0, , , , 
+ , ,1,1, , , , 
+0,1,1,0, , , , 
+1,1,1,0,0,1,0,0
+###############
+
+
+
+
+Depth = 4, Time taken: 1.4301 seconds 
+ Nodes visited: 407
+Player Black makes move: ('D', 1)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,0,0, , , , 
+ ,1,1,1, , , , 
+0,1,1,0, , , , 
+1,1,1,0,0,1,0,0
+###############
+
+
+Turn number : 10
+Depth = 4, Time taken: 1.3018 seconds 
+ Nodes visited: 418
+Player White makes move: ('D', 4)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,0,0, , , , 
+ ,1,1,1, , , , 
+0,1,1,0,0, , , 
+1,1,1,0,0,1,0,0
+###############
+
+
+
+
+Depth = 4, Time taken: 0.9736 seconds 
+ Nodes visited: 269
+Player Black makes move: ('D', 6)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,0,0, , , , 
+ ,1,1,1, , , , 
+0,1,1,0,0, ,1, 
+1,1,1,0,0,1,0,0
+###############
+
+
+Turn number : 11
+Depth = 4, Time taken: 0.8060 seconds 
+ Nodes visited: 258
+Player White makes move: ('D', 6)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,0,0, , , , 
+ ,1,1,1, , ,0, 
+0,1,1,0,0, ,1, 
+1,1,1,0,0,1,0,0
+###############
+
+
+
+
+Depth = 4, Time taken: 0.8157 seconds 
+ Nodes visited: 233
+Player Black makes move: ('D', 5)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,0,0, , , , 
+ ,1,1,1, , ,0, 
+0,1,1,0,0,1,1, 
+1,1,1,0,0,1,0,0
+###############
+
+
+Turn number : 12
+Depth = 4, Time taken: 0.9433 seconds 
+ Nodes visited: 334
+Player White makes move: ('D', 7)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,0,0, , , , 
+ ,1,1,1, , ,0, 
+0,1,1,0,0,1,1,0
+1,1,1,0,0,1,0,0
+###############
+
+
+
+
+Depth = 4, Time taken: 0.8360 seconds 
+ Nodes visited: 246
+Player Black makes move: ('R', 5, 6)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,0,0, , , , 
+ ,1,1,1, , ,0, 
+0,1,1,0,0, ,1,1
+1,1,1,0,0,1,0,0
+###############
+
+
+Turn number : 13
+Depth = 4, Time taken: 0.5272 seconds 
+ Nodes visited: 185
+Player White makes move: ('D', 7)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,0,0, , , , 
+ ,1,1,1, , ,0,0
+0,1,1,0,0, ,1,1
+1,1,1,0,0,1,0,0
+###############
+
+
+
+
+Depth = 4, Time taken: 0.7965 seconds 
+ Nodes visited: 221
+Player Black makes move: ('D', 7)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , ,0,0, , , ,1
+ ,1,1,1, , ,0,0
+0,1,1,0,0, ,1,1
+1,1,1,0,0,1,0,0
+###############
+
+
+Turn number : 14
+Depth = 4, Time taken: 0.5764 seconds 
+ Nodes visited: 184
+Player White makes move: ('D', 1)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ ,0,0,0, , , ,1
+ ,1,1,1, , ,0,0
+0,1,1,0,0, ,1,1
+1,1,1,0,0,1,0,0
+###############
+
+
+
+
+Depth = 4, Time taken: 1.1997 seconds 
+ Nodes visited: 302
+Player Black makes move: ('D', 1)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ ,1, , , , , , 
+ ,0,0,0, , , ,1
+ ,1,1,1, , ,0,0
+0,1,1,0,0, ,1,1
+1,1,1,0,0,1,0,0
+###############
+
+
+Turn number : 15
+Depth = 4, Time taken: 1.5997 seconds 
+ Nodes visited: 462
+Player White makes move: ('D', 3)
+ , , , , , , , 
+ , , , , , , , 
+ , , , , , , , 
+ ,1, ,0, , , , 
+ ,0,0,0, , , ,1
+ ,1,1,1, , ,0,0
+0,1,1,0,0, ,1,1
+1,1,1,0,0,1,0,0
+###############
+
+
+
+
+Depth = 4, Time taken: 1.3499 seconds 
+ Nodes visited: 329
+Player Black makes move: ('D', 1)
+ , , , , , , , 
+ , , , , , , , 
+ ,1, , , , , , 
+ ,1, ,0, , , , 
+ ,0,0,0, , , ,1
+ ,1,1,1, , ,0,0
+0,1,1,0,0, ,1,1
+1,1,1,0,0,1,0,0
+###############
+
+
+Turn number : 16
+Depth = 4, Time taken: 1.4636 seconds 
+ Nodes visited: 348
+Player White makes move: ('D', 6)
+ , , , , , , , 
+ , , , , , , , 
+ ,1, , , , , , 
+ ,1, ,0, , , , 
+ ,0,0,0, , ,0,1
+ ,1,1,1, , ,0,0
+0,1,1,0,0, ,1,1
+1,1,1,0,0,1,0,0
+###############
+
+
+
+
+Depth = 4, Time taken: 0.4449 seconds 
+ Nodes visited: 136
+Player Black makes move: ('D', 4)
+ , , , , , , , 
+ , , , , , , , 
+ ,1, , , , , , 
+ ,1, ,0, , , , 
+ ,0,0,0, , ,0,1
+ ,1,1,1,1, ,0,0
+0,1,1,0,0, ,1,1
+1,1,1,0,0,1,0,0
+###############
+
+
+BLACK has won!
+ , , , , , , , 
+ , , , , , , , 
+ ,1, , , , , , 
+ ,1, ,0, , , , 
+ ,0,0,0, , ,0,1
+ ,1,1,1,1, ,0,0
+0,1,1,0,0, ,1,1
+1,1,1,0,0,1,0,0
+###############
+
